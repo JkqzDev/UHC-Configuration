@@ -1,0 +1,13 @@
+#### COMMANDS ####
+command.globalmute.enable: '&aGlobalmute has been enabled successfully'
+command.globalmute.disable: '&cGlobalmute has heen disabled successfully'
+
+### GLOBAL ###
+player.join.message: '&7[&a+&7] &7%player%'
+player.quit.message: '&7[&c-&7] &7%player%'
+player.death.message: '&c%player% &7[%player_eliminations%] &edied'
+player.death.by.target.message: '&c%player% &7[%player_eliminations%] &ewas slain by &c%target% &7[%target_eliminations%]'
+start.message: '&aGood luck! Remember to follow the UHC rules so you dont receive a sanction'
+### UHC WINNER ###
+uhc.winner.ffa: '&a%player% has won UHC FFA'
+uhc.winner.teams: '&aTeam %team% won UHC TO%team_size%'
